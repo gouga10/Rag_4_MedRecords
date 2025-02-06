@@ -75,9 +75,7 @@ python api.py
 ```
 
 ### 5. Interact with the App
-- Open your browser and start chatting with the application.
+- Open your browser and start chatting with the application.🚀
 
----
 
-This README provides a clear and structured guide for setting up and running Health-RAG. 🚀
 
