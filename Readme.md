@@ -61,10 +61,11 @@ pip install -r requirements.txt
 
 ### 4. Run the Application
 
--navigate to Health-RAG 
--
+
+
 ```bash
 # Start the Streamlit UI
+cd Health-RAG
 streamlit run streamlit.py
 ```
 ```bash
