@@ -65,12 +65,12 @@ pip install -r requirements.txt
 
 ```bash
 # Start the Streamlit UI
-cd Health-RAG
+cd RAG
 streamlit run streamlit.py
 ```
 ```bash
 # In a separate terminal, start the API
-cd Health-RAG/RAG
+cd RAG
 python api.py
 ``` 
 
