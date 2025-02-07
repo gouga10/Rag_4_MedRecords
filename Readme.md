@@ -72,7 +72,7 @@ streamlit run streamlit.py
 # In a separate terminal, start the API
 cd Health-RAG/RAG
 python api.py
-```
+``` 
 
 ### 5. Interact with the App
 - Open your browser and start chatting with the application.🚀
